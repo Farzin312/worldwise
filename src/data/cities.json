@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2025-01-19T15:46:57.633Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.02432818213438",
+        "lng": "-0.05149841308593751"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Caniapiscau",
+      "country": "Canada",
+      "date": "2025-01-19T15:56:33.102Z",
+      "emoji": "🇨🇦",
+      "notes": "",
+      "position": {
+        "lat": "54.62297813269033",
+        "lng": "-69.96093750000001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Nuuk",
+      "country": "Greenland",
+      "date": "2025-01-19T15:56:54.935Z",
+      "emoji": "🇬🇱",
+      "notes": "",
+      "position": {
+        "lat": "64.51064316846676",
+        "lng": "-46.31835937500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Hella",
+      "country": "Iceland",
+      "date": "2025-01-19T15:58:47.244Z",
+      "emoji": "🇮🇸",
+      "notes": "",
+      "position": {
+        "lat": "63.860035895395306",
+        "lng": "-19.775390625"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Auchterarder",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2025-01-19T15:59:04.519Z",
+      "emoji": "🇬🇧",
+      "notes": "",
+      "position": {
+        "lat": "56.26776108757582",
+        "lng": "-3.8671875000000004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Juuka",
+      "country": "Finland",
+      "date": "2025-01-19T15:59:27.445Z",
+      "emoji": "🇫🇮",
+      "notes": "",
+      "position": {
+        "lat": "63.074865690586634",
+        "lng": "29.003906250000004"
+      },
+      "id": 98443207
+    }
+  ]
+}
